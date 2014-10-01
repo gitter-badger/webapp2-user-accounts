@@ -1,4 +1,5 @@
 # Custom user authentication with webapp2
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/abahgat/webapp2-user-accounts?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 This is a skeleton implementation of user account management with webapp2.
 
